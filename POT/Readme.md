@@ -1,1 +1,1 @@
-
+A potentiometer is a three‑terminal variable resistor that allows manual adjustment of voltage by sliding or rotating a contact across a resistive element. It is widely used for controlling volume in audio devices, tuning circuits, and setting reference voltages in electronic systems.
