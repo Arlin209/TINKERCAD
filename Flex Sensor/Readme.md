@@ -1,1 +1,1 @@
-
+A flex sensor is a variable resistor that changes its resistance when bent or flexed. It is often used in wearable devices, robotics, and gesture recognition systems to measure movement or bending angles.
