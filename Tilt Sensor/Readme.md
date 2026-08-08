@@ -1,1 +1,1 @@
-
+A tilt sensor detects changes in orientation or inclination by measuring the angle of tilt relative to gravity. It is commonly used in smartphones, gaming controllers, and safety systems to sense motion, balance, or position.
