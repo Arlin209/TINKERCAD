@@ -1,1 +1,1 @@
-An ultrasonic sensor measures distance by emitting high‑frequency sound waves and calculating the time it takes for the echo to return. It is widely used in robotics, automation, and obstacle detection because of its accuracy and low cost.
+An ultrasonic sensor measures distance by emitting high‑frequency sound waves and calculating the time it takes for the echo to return. It is widely used in robotics, automation, and obstacle detection because of its accuracy.
