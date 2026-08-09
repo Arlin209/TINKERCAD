@@ -1,1 +1,1 @@
-
+A temperature sensor detects changes in ambient heat and converts them into electrical signals for measurement. It is widely used in HVAC systems, industrial monitoring, and smart devices to maintain optimal environmental conditions.
