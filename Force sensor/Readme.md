@@ -1,1 +1,1 @@
-
+A force sensor measures the amount of physical force or pressure applied to its surface and converts it into an electrical signal. It is widely used in robotics, industrial machines, and medical devices to monitor load, grip strength, or tactile feedback.
