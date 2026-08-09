@@ -1,1 +1,1 @@
-
+A PIR (Passive Infrared) sensor detects motion by measuring changes in infrared radiation emitted by objects in its field of view. It is commonly used in security systems and automatic lighting to sense human movement efficiently.
